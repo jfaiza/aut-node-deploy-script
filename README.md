@@ -1,5 +1,5 @@
 # aut-node-deploy-script
-Script to deploy an autonity node
+Script to deploy an autonity node : Installing the Docker image
 
 To execute the script:
  - STEP 1 : Execute the script :
