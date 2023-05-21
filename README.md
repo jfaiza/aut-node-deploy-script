@@ -5,8 +5,8 @@ To execute the script:
  - STEP 1 : Execute the script :
             $ sudo bash "script file"
 
-IMPORTANT: Ref: https://docs.autonity.org/node-operators/install-aut/
-You need to add the following ports:
+IMPORTANT: You need to open the following ports on your server (Ref: https://docs.autonity.org/node-operators/install-aut/)
+
 
   A public-facing internet connection with static IP is required. Incoming traffic must be allowed on the following:
     TCP, UDP 30303 for node p2p (DEVp2p) communication.
